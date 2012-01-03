@@ -1,0 +1,5 @@
+{
+    "require": {
+        "floomoon/phpoo-curl": ">=0"
+    }
+}
